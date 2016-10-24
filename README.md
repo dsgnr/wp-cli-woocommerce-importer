@@ -6,10 +6,10 @@ This is a basic script which imports the product title, SKU, Price and Images
 
 # Usage
 
-`cd` into your WordPress directory
-import your .txt file into the WordPress directory
-`wget https://raw.githubusercontent.com/dsgnr/WP-CLI-WooCommerce-Importer/master/wc_importer.sh`
-`bash wc_importer.sh`
+* `cd` into your WordPress directory
+* import your .txt file into the WordPress directory
+* `wget https://raw.githubusercontent.com/dsgnr/WP-CLI-WooCommerce-Importer/master/wc_importer.sh`
+* `bash wc_importer.sh`
 
 Please modify it to suit your needs.
 
